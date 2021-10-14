@@ -41,6 +41,7 @@ GEM
     naught (1.1.0)
     nokogiri (1.12.5-x86_64-linux)
       racc (~> 1.4)
+    open-uri (0.1.0)
     parallel (1.21.0)
     parser (3.0.2.0)
       ast (~> 2.4.1)
@@ -104,6 +105,7 @@ DEPENDENCIES
   dotenv
   httparty
   nokogiri
+  open-uri
   pry
   rspec
   rubocop

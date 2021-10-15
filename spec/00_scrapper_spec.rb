@@ -1,6 +1,6 @@
 require_relative '../lib/00_crypto_scrapper.rb'
 
-describe "the fonction perform" do
+describe "the fonction scrapper" do
   it "should return an Array" do
      expect(scrapper.class).to eq(Array)
   end
